@@ -1,0 +1,4 @@
+# vvf.faef
+*.faef
+dir/
+# /dir/  # outer dir
